@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1725545289350
+current_stage: Archived
+description: ''
+last_updated_timestamp: 1725546292699
+name: diabetes-rf
+run_id: 67278444406f4e91aa73492eadb97765
+run_link: ''
+source: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/67278444406f4e91aa73492eadb97765/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/67278444406f4e91aa73492eadb97765/artifacts/random_forest
+user_id: null
+version: 1

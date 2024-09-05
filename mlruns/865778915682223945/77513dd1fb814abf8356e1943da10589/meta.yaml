@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/77513dd1fb814abf8356e1943da10589/artifacts
+end_time: 1725546472413
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: 77513dd1fb814abf8356e1943da10589
+run_name: exultant-crab-582
+run_uuid: 77513dd1fb814abf8356e1943da10589
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725546472274
+status: 3
+tags: []
+user_id: surya

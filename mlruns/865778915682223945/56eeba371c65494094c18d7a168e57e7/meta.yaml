@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/56eeba371c65494094c18d7a168e57e7/artifacts
+end_time: 1725546472253
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: 56eeba371c65494094c18d7a168e57e7
+run_name: vaunted-deer-248
+run_uuid: 56eeba371c65494094c18d7a168e57e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725546472113
+status: 3
+tags: []
+user_id: surya

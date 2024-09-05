@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/90ac37b7fd8540699cdcdc4a1c9d5364/artifacts
+end_time: 1725546473734
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: 90ac37b7fd8540699cdcdc4a1c9d5364
+run_name: casual-foal-169
+run_uuid: 90ac37b7fd8540699cdcdc4a1c9d5364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725546473582
+status: 3
+tags: []
+user_id: surya

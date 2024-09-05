@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/0a2d9de964a143a49aa07641bd2b997a/artifacts
+end_time: 1725546471560
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: 0a2d9de964a143a49aa07641bd2b997a
+run_name: enthused-deer-46
+run_uuid: 0a2d9de964a143a49aa07641bd2b997a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725546471428
+status: 3
+tags: []
+user_id: surya

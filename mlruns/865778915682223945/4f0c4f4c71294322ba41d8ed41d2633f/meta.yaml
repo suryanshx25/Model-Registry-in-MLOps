@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/4f0c4f4c71294322ba41d8ed41d2633f/artifacts
+end_time: 1725544881612
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: 4f0c4f4c71294322ba41d8ed41d2633f
+run_name: amusing-croc-682
+run_uuid: 4f0c4f4c71294322ba41d8ed41d2633f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725544881490
+status: 3
+tags: []
+user_id: surya

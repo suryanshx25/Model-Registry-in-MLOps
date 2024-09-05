@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/d01db737ec744230b678eb118a5e99c4/artifacts
+end_time: 1725544882055
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: d01db737ec744230b678eb118a5e99c4
+run_name: zealous-fox-85
+run_uuid: d01db737ec744230b678eb118a5e99c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725544881930
+status: 3
+tags: []
+user_id: surya

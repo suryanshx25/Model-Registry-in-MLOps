@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/3159ffa699034e4e9af205be1660447d/artifacts
+end_time: 1725546474623
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: 3159ffa699034e4e9af205be1660447d
+run_name: chill-bird-465
+run_uuid: 3159ffa699034e4e9af205be1660447d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725546474473
+status: 3
+tags: []
+user_id: surya

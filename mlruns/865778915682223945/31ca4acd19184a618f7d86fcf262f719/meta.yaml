@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/31ca4acd19184a618f7d86fcf262f719/artifacts
+end_time: 1725546473167
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: 31ca4acd19184a618f7d86fcf262f719
+run_name: brawny-dove-13
+run_uuid: 31ca4acd19184a618f7d86fcf262f719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725546472964
+status: 3
+tags: []
+user_id: surya

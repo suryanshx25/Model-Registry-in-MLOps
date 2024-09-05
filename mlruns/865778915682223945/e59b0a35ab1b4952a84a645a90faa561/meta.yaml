@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/e59b0a35ab1b4952a84a645a90faa561/artifacts
+end_time: 1725546471754
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: e59b0a35ab1b4952a84a645a90faa561
+run_name: gaudy-vole-578
+run_uuid: e59b0a35ab1b4952a84a645a90faa561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725546471585
+status: 3
+tags: []
+user_id: surya

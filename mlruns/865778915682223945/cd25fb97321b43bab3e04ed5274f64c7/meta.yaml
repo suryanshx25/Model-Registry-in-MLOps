@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/cd25fb97321b43bab3e04ed5274f64c7/artifacts
+end_time: 1725544882949
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: cd25fb97321b43bab3e04ed5274f64c7
+run_name: monumental-wren-850
+run_uuid: cd25fb97321b43bab3e04ed5274f64c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725544882829
+status: 3
+tags: []
+user_id: surya

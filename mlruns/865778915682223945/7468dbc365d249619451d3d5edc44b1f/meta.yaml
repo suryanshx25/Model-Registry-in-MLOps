@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/7468dbc365d249619451d3d5edc44b1f/artifacts
+end_time: 1725546472942
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: 7468dbc365d249619451d3d5edc44b1f
+run_name: debonair-cow-77
+run_uuid: 7468dbc365d249619451d3d5edc44b1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725546472785
+status: 3
+tags: []
+user_id: surya

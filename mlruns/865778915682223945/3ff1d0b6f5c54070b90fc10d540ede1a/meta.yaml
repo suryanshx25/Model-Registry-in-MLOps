@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/3ff1d0b6f5c54070b90fc10d540ede1a/artifacts
+end_time: 1725544882351
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: 3ff1d0b6f5c54070b90fc10d540ede1a
+run_name: blushing-tern-487
+run_uuid: 3ff1d0b6f5c54070b90fc10d540ede1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725544882222
+status: 3
+tags: []
+user_id: surya

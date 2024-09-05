@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/a2726a9db45545268f80cdbfe10df569/artifacts
+end_time: 1725544882812
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: a2726a9db45545268f80cdbfe10df569
+run_name: grandiose-cat-492
+run_uuid: a2726a9db45545268f80cdbfe10df569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725544882654
+status: 3
+tags: []
+user_id: surya

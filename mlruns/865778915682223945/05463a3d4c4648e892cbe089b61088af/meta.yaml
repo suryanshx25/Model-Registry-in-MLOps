@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/05463a3d4c4648e892cbe089b61088af/artifacts
+end_time: 1725546474290
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: 05463a3d4c4648e892cbe089b61088af
+run_name: sincere-mole-366
+run_uuid: 05463a3d4c4648e892cbe089b61088af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725546474143
+status: 3
+tags: []
+user_id: surya

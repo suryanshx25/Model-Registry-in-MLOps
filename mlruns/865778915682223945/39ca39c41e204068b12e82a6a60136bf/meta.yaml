@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/39ca39c41e204068b12e82a6a60136bf/artifacts
+end_time: 1725546471924
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: 39ca39c41e204068b12e82a6a60136bf
+run_name: welcoming-wren-414
+run_uuid: 39ca39c41e204068b12e82a6a60136bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725546471777
+status: 3
+tags: []
+user_id: surya

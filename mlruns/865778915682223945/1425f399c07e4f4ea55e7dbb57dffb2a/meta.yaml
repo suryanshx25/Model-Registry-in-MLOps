@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/1425f399c07e4f4ea55e7dbb57dffb2a/artifacts
+end_time: 1725544882490
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: 1425f399c07e4f4ea55e7dbb57dffb2a
+run_name: secretive-lamb-688
+run_uuid: 1425f399c07e4f4ea55e7dbb57dffb2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725544882369
+status: 3
+tags: []
+user_id: surya

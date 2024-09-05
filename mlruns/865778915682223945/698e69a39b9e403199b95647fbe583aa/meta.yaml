@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/698e69a39b9e403199b95647fbe583aa/artifacts
+end_time: 1725544881756
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: 698e69a39b9e403199b95647fbe583aa
+run_name: efficient-fawn-762
+run_uuid: 698e69a39b9e403199b95647fbe583aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725544881631
+status: 3
+tags: []
+user_id: surya

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/8c1c301a745a450bbe68b6c6b5ec364f/artifacts
+end_time: 1725546471409
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: 8c1c301a745a450bbe68b6c6b5ec364f
+run_name: upset-lynx-371
+run_uuid: 8c1c301a745a450bbe68b6c6b5ec364f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725546471266
+status: 3
+tags: []
+user_id: surya

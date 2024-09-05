@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/88db3a54d57a450797bdc312839ee341/artifacts
+end_time: 1725546473929
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: 88db3a54d57a450797bdc312839ee341
+run_name: gaudy-skunk-281
+run_uuid: 88db3a54d57a450797bdc312839ee341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725546473758
+status: 3
+tags: []
+user_id: surya

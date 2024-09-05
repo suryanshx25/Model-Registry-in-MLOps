@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/6488b92cb06743caa46c6d488f24052f/artifacts
+end_time: 1725544883403
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: 6488b92cb06743caa46c6d488f24052f
+run_name: nervous-bee-556
+run_uuid: 6488b92cb06743caa46c6d488f24052f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725544883264
+status: 3
+tags: []
+user_id: surya

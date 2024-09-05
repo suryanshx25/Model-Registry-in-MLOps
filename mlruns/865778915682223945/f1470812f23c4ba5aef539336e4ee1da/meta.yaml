@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/f1470812f23c4ba5aef539336e4ee1da/artifacts
+end_time: 1725544884121
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: f1470812f23c4ba5aef539336e4ee1da
+run_name: adorable-trout-999
+run_uuid: f1470812f23c4ba5aef539336e4ee1da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725544883998
+status: 3
+tags: []
+user_id: surya

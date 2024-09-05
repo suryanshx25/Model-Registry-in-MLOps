@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/67278444406f4e91aa73492eadb97765/artifacts
+end_time: 1725544914285
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: 67278444406f4e91aa73492eadb97765
+run_name: serious-foal-400
+run_uuid: 67278444406f4e91aa73492eadb97765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725544867760
+status: 3
+tags: []
+user_id: surya

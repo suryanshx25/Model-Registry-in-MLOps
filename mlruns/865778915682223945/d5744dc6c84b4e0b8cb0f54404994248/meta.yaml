@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/d5744dc6c84b4e0b8cb0f54404994248/artifacts
+end_time: 1725544882634
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: d5744dc6c84b4e0b8cb0f54404994248
+run_name: unruly-skunk-226
+run_uuid: d5744dc6c84b4e0b8cb0f54404994248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725544882511
+status: 3
+tags: []
+user_id: surya

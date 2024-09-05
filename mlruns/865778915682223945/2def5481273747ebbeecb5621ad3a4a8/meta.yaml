@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/2def5481273747ebbeecb5621ad3a4a8/artifacts
+end_time: 1725546473373
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: 2def5481273747ebbeecb5621ad3a4a8
+run_name: enchanting-jay-679
+run_uuid: 2def5481273747ebbeecb5621ad3a4a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725546473187
+status: 3
+tags: []
+user_id: surya

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/d9223d67c2094401b2a0e0f058805bf1/artifacts
+end_time: 1725544882205
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: d9223d67c2094401b2a0e0f058805bf1
+run_name: rumbling-lamb-652
+run_uuid: d9223d67c2094401b2a0e0f058805bf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725544882074
+status: 3
+tags: []
+user_id: surya

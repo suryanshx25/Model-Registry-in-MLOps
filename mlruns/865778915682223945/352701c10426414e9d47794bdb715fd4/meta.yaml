@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/352701c10426414e9d47794bdb715fd4/artifacts
+end_time: 1725544883977
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: 352701c10426414e9d47794bdb715fd4
+run_name: suave-crab-645
+run_uuid: 352701c10426414e9d47794bdb715fd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725544883852
+status: 3
+tags: []
+user_id: surya

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/d025f4c23b774bcfa8a73b40d01fc896/artifacts
+end_time: 1725546472091
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: d025f4c23b774bcfa8a73b40d01fc896
+run_name: zealous-lark-511
+run_uuid: d025f4c23b774bcfa8a73b40d01fc896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725546471943
+status: 3
+tags: []
+user_id: surya

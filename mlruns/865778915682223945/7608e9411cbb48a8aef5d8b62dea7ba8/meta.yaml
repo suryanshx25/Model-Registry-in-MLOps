@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/7608e9411cbb48a8aef5d8b62dea7ba8/artifacts
+end_time: 1725544881908
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: 7608e9411cbb48a8aef5d8b62dea7ba8
+run_name: salty-sloth-312
+run_uuid: 7608e9411cbb48a8aef5d8b62dea7ba8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725544881774
+status: 3
+tags: []
+user_id: surya

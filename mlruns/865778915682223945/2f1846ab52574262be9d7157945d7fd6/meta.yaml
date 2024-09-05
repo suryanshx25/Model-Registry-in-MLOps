@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/2f1846ab52574262be9d7157945d7fd6/artifacts
+end_time: 1725544881468
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: 2f1846ab52574262be9d7157945d7fd6
+run_name: funny-sponge-577
+run_uuid: 2f1846ab52574262be9d7157945d7fd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725544881325
+status: 3
+tags: []
+user_id: surya

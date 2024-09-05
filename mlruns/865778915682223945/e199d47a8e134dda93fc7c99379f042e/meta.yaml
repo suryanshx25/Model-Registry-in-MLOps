@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/e199d47a8e134dda93fc7c99379f042e/artifacts
+end_time: 1725546494114
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: e199d47a8e134dda93fc7c99379f042e
+run_name: respected-turtle-857
+run_uuid: e199d47a8e134dda93fc7c99379f042e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725546456802
+status: 3
+tags: []
+user_id: surya

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/27fcd4f118614da5aefc39162396fb9f/artifacts
+end_time: 1725544883088
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: 27fcd4f118614da5aefc39162396fb9f
+run_name: luminous-grub-707
+run_uuid: 27fcd4f118614da5aefc39162396fb9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725544882970
+status: 3
+tags: []
+user_id: surya

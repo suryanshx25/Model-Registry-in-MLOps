@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/8b45872800c44fea8e90c470d1c27f09/artifacts
+end_time: 1725546472761
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: 8b45872800c44fea8e90c470d1c27f09
+run_name: charming-grub-366
+run_uuid: 8b45872800c44fea8e90c470d1c27f09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725546472616
+status: 3
+tags: []
+user_id: surya
