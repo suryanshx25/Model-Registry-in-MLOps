@@ -1,9 +1,9 @@
 aliases: []
 creation_timestamp: 1725546906452
-current_stage: None
+current_stage: Production
 description: This is a RandomForest model trained to predict diabetes outcomes based
   on Pima Indians Diabetes Dataset.
-last_updated_timestamp: 1725546911507
+last_updated_timestamp: 1725547349567
 name: diabetes-rf
 run_id: e199d47a8e134dda93fc7c99379f042e
 run_link: null
