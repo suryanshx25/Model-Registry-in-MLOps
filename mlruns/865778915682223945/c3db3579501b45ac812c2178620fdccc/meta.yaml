@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/c3db3579501b45ac812c2178620fdccc/artifacts
+end_time: 1725544460095
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: c3db3579501b45ac812c2178620fdccc
+run_name: zealous-gnat-964
+run_uuid: c3db3579501b45ac812c2178620fdccc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725544459930
+status: 3
+tags: []
+user_id: surya

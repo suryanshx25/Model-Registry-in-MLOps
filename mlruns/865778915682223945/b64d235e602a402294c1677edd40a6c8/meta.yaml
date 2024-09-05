@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/b64d235e602a402294c1677edd40a6c8/artifacts
+end_time: 1725544460251
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: b64d235e602a402294c1677edd40a6c8
+run_name: lyrical-asp-100
+run_uuid: b64d235e602a402294c1677edd40a6c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725544460123
+status: 3
+tags: []
+user_id: surya

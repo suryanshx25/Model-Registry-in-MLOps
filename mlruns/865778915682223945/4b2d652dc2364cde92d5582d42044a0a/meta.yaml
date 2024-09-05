@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/4b2d652dc2364cde92d5582d42044a0a/artifacts
+end_time: 1725544459340
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: 4b2d652dc2364cde92d5582d42044a0a
+run_name: bouncy-whale-467
+run_uuid: 4b2d652dc2364cde92d5582d42044a0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725544459179
+status: 3
+tags: []
+user_id: surya

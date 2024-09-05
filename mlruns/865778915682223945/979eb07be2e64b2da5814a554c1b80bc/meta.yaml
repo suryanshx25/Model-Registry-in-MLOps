@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/979eb07be2e64b2da5814a554c1b80bc/artifacts
+end_time: 1725544460522
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: 979eb07be2e64b2da5814a554c1b80bc
+run_name: clumsy-penguin-564
+run_uuid: 979eb07be2e64b2da5814a554c1b80bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725544460407
+status: 3
+tags: []
+user_id: surya

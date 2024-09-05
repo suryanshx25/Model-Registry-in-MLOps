@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/421dc078239847129e706371bb88988c/artifacts
+end_time: 1725544458330
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: 421dc078239847129e706371bb88988c
+run_name: rogue-owl-746
+run_uuid: 421dc078239847129e706371bb88988c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725544458115
+status: 3
+tags: []
+user_id: surya

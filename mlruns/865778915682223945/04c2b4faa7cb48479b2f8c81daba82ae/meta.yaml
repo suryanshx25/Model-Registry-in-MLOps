@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/04c2b4faa7cb48479b2f8c81daba82ae/artifacts
+end_time: 1725544461491
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: 04c2b4faa7cb48479b2f8c81daba82ae
+run_name: thoughtful-flea-921
+run_uuid: 04c2b4faa7cb48479b2f8c81daba82ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725544461345
+status: 3
+tags: []
+user_id: surya

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/6537a86249644360859fc3b7dc3f2122/artifacts
+end_time: 1725544461148
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: 6537a86249644360859fc3b7dc3f2122
+run_name: carefree-mole-237
+run_uuid: 6537a86249644360859fc3b7dc3f2122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725544461001
+status: 3
+tags: []
+user_id: surya

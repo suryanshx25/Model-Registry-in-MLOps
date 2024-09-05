@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/9a1e585c530a49db84040157123a46f2/artifacts
+end_time: 1725544461326
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: 9a1e585c530a49db84040157123a46f2
+run_name: likeable-pug-77
+run_uuid: 9a1e585c530a49db84040157123a46f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725544461163
+status: 3
+tags: []
+user_id: surya

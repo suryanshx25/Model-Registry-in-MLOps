@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/45c3440a6bdb453aa3a81e658cf9aad4/artifacts
+end_time: 1725544458700
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: 45c3440a6bdb453aa3a81e658cf9aad4
+run_name: debonair-chimp-644
+run_uuid: 45c3440a6bdb453aa3a81e658cf9aad4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725544458554
+status: 3
+tags: []
+user_id: surya

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/2e706cf2861d4f30979106c350f5e77c/artifacts
+end_time: 1725544460668
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: 2e706cf2861d4f30979106c350f5e77c
+run_name: classy-kit-615
+run_uuid: 2e706cf2861d4f30979106c350f5e77c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725544460546
+status: 3
+tags: []
+user_id: surya

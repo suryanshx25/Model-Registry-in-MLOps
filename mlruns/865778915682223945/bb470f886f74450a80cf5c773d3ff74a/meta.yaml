@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/bb470f886f74450a80cf5c773d3ff74a/artifacts
+end_time: 1725544459562
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: bb470f886f74450a80cf5c773d3ff74a
+run_name: whimsical-elk-244
+run_uuid: bb470f886f74450a80cf5c773d3ff74a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725544459376
+status: 3
+tags: []
+user_id: surya

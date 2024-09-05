@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/OneDrive/Desktop/mlops/Model-Registry/mlruns/865778915682223945/14c19a3fd92c4bfbb467b7a28d8d300c/artifacts
+end_time: 1725544460386
+entry_point_name: ''
+experiment_id: '865778915682223945'
+lifecycle_stage: active
+run_id: 14c19a3fd92c4bfbb467b7a28d8d300c
+run_name: zealous-fowl-193
+run_uuid: 14c19a3fd92c4bfbb467b7a28d8d300c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725544460270
+status: 3
+tags: []
+user_id: surya
